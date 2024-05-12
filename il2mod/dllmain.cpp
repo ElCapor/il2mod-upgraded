@@ -11,7 +11,7 @@
 #include "JITCall.hpp"
 
 #define SOL_PRINT_ERRORS 1
-#include <sol/sol.hpp>
+#include <sol.hpp>
 
 inline sol::state L;
 
