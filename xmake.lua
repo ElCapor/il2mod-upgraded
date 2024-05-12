@@ -21,4 +21,5 @@ target("il2mod")
     
     add_files("il2mod/**.cpp")
     add_packages("polyhook")
+    add_packages("asmjit")
 target_end()

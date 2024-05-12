@@ -1,6 +1,8 @@
 # FORK NOTE : Improving and upgrading il2mod
 This fork attempts to impove il2mod, by adding a luau environnement, in game imgui executor, various utilities such as widget system , and xmake build system. 
 This is a W.I.P and not suitable for use yet !
+
+TODO : use unity resolve instead of il2mod.h
 # il2mod
 
 il2cpp scripting and hooking framework via LUA.
